@@ -1,0 +1,11 @@
+.tools/
+backend/target/
+web/node_modules/
+web/dist/
+*.tsbuildinfo
+data/cache/
+output/
+.env
+.env.*
+*.part
+*.tmp
